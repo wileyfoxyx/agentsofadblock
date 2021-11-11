@@ -8,3 +8,5 @@ rosbalt.ru##.rkngov
 tvrain.ru###donate_09_2021_dzyadko
 tvrain.ru##.popup.popup-donate-09-2021.popup-donate-09-2021--dzyadko
 meduza.io##Banner-root
+istories.media##.Pandora-header__message
+istories.media##.ForeignAgentBanner.ForeignAgentBanner_isDesktop
