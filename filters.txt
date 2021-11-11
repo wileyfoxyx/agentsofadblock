@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Title: Агенты "адблока"
+! Version: 1.0
+! Homepage: https://github.com/wileyfoxyx/agentsofadblock
+
+zona.media##.mz-agent-banner
